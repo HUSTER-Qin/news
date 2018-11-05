@@ -1,0 +1,18 @@
+{
+    "total": 1,
+    "user": [
+        {
+            "name": "a",
+            "pwd": "a",
+            "datetime": "2017-03-19T10:28:31.958Z",
+            "headiconurl": "./images/upload_0106df10e4fef826167be96ef7984808.ico",
+            "favorites": {
+                "theme": [],
+                "news": [
+                    9297882,
+                    7246384
+                ]
+            }
+        }
+    ]
+}

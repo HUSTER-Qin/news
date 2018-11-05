@@ -1,0 +1,31 @@
+body,
+html {
+  height: 100%;
+  overflow: hidden;
+}
+#app {
+  height: 100%;
+  overflow: hidden;
+}
+ .toperror {
+  width: 100%;
+  color: red;
+  opacity: .8;
+  height: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 375px;
+}
+ .topok {
+  width: 100%;
+  color: green;
+  opacity: .8;
+  height: 48px;
+  line-height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 375px;
+}

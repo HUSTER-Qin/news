@@ -1,0 +1,18 @@
+.prompt-hide {
+  transform: translate(0, -4000px);
+  background-color: #c0c0c0;
+  width: 100px;
+  height: 20px;
+}
+.prompt-hide span {
+  color: grey;
+}
+.prompt-title {
+  transform: translate(0, 0);
+  background-color: #c0c0c0;
+  width: 20px;
+  height: 20px;
+}
+.prompt-title span {
+  color: grey;
+}
